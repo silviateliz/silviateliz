@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @silteliz
 - 👀 I’m interested in using quantitative methods and coding to solve social science questions, such as:
   - How does the media portray minorities?
-  - What is the nature of discrimination?
-  - How does the intersection between discrimination and politics work?
+  - What is the nature of discussions about race and skin color in the internet?
 - 🌱 I’m currently learning python and machine learning.
 - 📫 How to reach me: 
   - silteliz@gmail.com
