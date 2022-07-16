@@ -4,7 +4,7 @@
   - What is the nature of discussions about race and skin color in the internet?
 - 🌱 I’m currently learning python and machine learning.
 - 📫 How to reach me: 
-  - silteliz@gmail.com
+  - silvia.teliz@asc.upenn.edu
   - Twitter: @SilviaTeliz
 
 <!---
