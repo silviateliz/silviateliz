@@ -3,9 +3,6 @@
   - How does the media portray minorities?
   - What is the nature of discussions about race and skin color in the internet?
 - 🌱 I’m currently learning python and machine learning.
-- 📫 How to reach me: 
-  - silvia.teliz@asc.upenn.edu
-  - Twitter: @SilviaTeliz
 
 <!---
 silteliz/silteliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
