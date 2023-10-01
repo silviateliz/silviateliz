@@ -1,6 +1,6 @@
 - 👋🏽 Hi, I’m @silteliz
-- I use computational methods like latent semantic analysis and computational visual analysis to uncover biased representations in Latin American content.
-- I am interested in answering questions about the effects of stereotyped portrayals on the public’s beliefs about inequality.
+- 🔍 I use computational methods like latent semantic analysis and computational visual analysis to uncover biased representations in Latin American content.
+- 🤔 I am interested in answering questions about the effects of stereotyped portrayals on the public’s beliefs about inequality.
 
 <!---
 silteliz/silteliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
