@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m @silteliz, PhD student at the University of Pennsylvania's Annenberg School for Communication
+- 👋🏽 Hi, I’m @silteliz, PhD student at the University of Pennsylvania's Annenberg School for Communication.
 - 🔍 I use computational methods like latent semantic analysis and computational visual analysis to uncover biased representations in Latin American content.
 - 🤔 I am interested in answering questions about the effects of stereotyped portrayals on the public’s beliefs about inequality.
 
